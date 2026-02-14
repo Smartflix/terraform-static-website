@@ -12,7 +12,8 @@ In this post, I’ll share my journey deploying a static web application on AWS 
 Here’s the final architecture:
 
 ```
-![Architecture diagram](images/architecture.png)
+![Architecture diagram](https://raw.githubusercontent.com/Smartflix/terraform-static-website/master/images/architecture.png)
+
 
 
 
