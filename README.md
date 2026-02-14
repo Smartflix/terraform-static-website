@@ -1,3 +1,4 @@
+
 ---
 
 # Deploying a Static Web Application on AWS Using Terraform Across Multiple Accounts
