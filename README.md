@@ -16,7 +16,6 @@ Here’s the final architecture:
 
 
 
-
 ```
 
 **Components**:
