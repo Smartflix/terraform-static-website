@@ -12,8 +12,7 @@ In this post, I’ll share my journey deploying a static web application on AWS 
 Here’s the final architecture:
 
 ```
-![Deployment Diagram](./images/architecture.png)
-
+![Architecture diagram](./images/architecture.png)
 
 
 
