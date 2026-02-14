@@ -1,4 +1,3 @@
-
 ---
 
 # Deploying a Static Web Application on AWS Using Terraform Across Multiple Accounts
@@ -13,11 +12,6 @@ Here’s the final architecture:
 
 ```
 ![Architecture diagram](https://raw.githubusercontent.com/Smartflix/terraform-static-website/master/images/architecture.png)
-
-
-
-
-
 ```
 
 **Components**:
